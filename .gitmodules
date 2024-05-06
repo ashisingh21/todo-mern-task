@@ -1,0 +1,6 @@
+[submodule "todo-mern-backend"]
+	path = todo-mern-backend
+	url = https://github.com/ashisingh21/todo-mern-backend.git
+[submodule "todo-mern-client"]
+	path = todo-mern-client
+	url = https://github.com/ashisingh21/todo-mern-client.git
